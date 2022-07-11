@@ -12,7 +12,7 @@ $ hydra -l molly -P /usr/share/wordlists/rockyou.txt <MACHINE_IP> http-post-form
 
 - Login with the credentials and obtain the flag:
 
-![Untitled.png](TryHackMe%20Hydra%205f5874a48a5340cfadbdda0bc5a079dd/Untitled.png)
+![/images/Untitled.png](TryHackMe%20Hydra%205f5874a48a5340cfadbdda0bc5a079dd/Untitled.png)
 
 # **Use Hydra to brute force Molly's SSH password. What is flag 2?**
 
